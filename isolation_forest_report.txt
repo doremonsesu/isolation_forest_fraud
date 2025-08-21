@@ -1,0 +1,21 @@
+Tổng số giao dịch: 284807
+Số lượng giao dịch gian lận: 492
+Tỉ lệ gian lận: 0.1727 %
+
+=== Confusion Matrix ===
+[[56796    68]
+ [   66    32]]
+
+=== Classification Report ===
+              precision    recall  f1-score   support
+
+           0     0.9988    0.9988    0.9988     56864
+           1     0.3200    0.3265    0.3232        98
+
+    accuracy                         0.9976     56962
+   macro avg     0.6594    0.6627    0.6610     56962
+weighted avg     0.9977    0.9976    0.9977     56962
+
+Precision: 0.3200
+Recall:    0.3265
+F1-score:  0.3232
